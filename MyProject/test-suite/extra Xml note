@@ -1,0 +1,11 @@
+<groups>
+		<run>
+		<include name="ErrorHandeling"></include>
+		</run>
+	</groups>
+	<test thread-count="5" name="SubmitOrderTest">
+		<classes>
+			<class name="MyProject.Tests.SubmitOrder" />
+		</classes>
+	</test> <!--
+	Test -->

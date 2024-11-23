@@ -1,0 +1,8 @@
+MyProject\PageObjects\CartPage.class
+MyProject\PageObjects\ConfirmationPage.class
+MyProject\PageObjects\ProductCatalogue.class
+MyProject\PageObjects\CheckoutPage.class
+MyProject\PageObjects\LandingPage.class
+MyProject\resources\ExtentReorterNG.class
+MyProject\AbstractComponents\AbstarctComponent.class
+MyProject\PageObjects\OrderPage.class
